@@ -1,12 +1,13 @@
 ## Hallo Valen here :]  <img src="images/-niko-v0-3jivffpxa3pf1.jpg" height= 50px>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Valen;I'm+Studying+to+become+a+Cybersecurity+Engineer)](https://git.io/typing-svg)
-# 💫 About Me:
+# About Me:
 
 Hi welcome to my github profile, you'll only find me as Valen. I am a studying Software Engineer and im at my third semester.
 And im currently working towards to become cybersecurity professional pentester. My learning journey has been fueled by constant curiosity and platforms like TryHackMe and HackTheBox.
 My objective is to find vulnearbilities on Webpages and Aplicacions.
 
-🔭 **I’m currently working on:**  <br>Improving the performance of serverless microservices architecture deployed on AWS Lambda.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack/Frontend/Backend projects<br><br>🌱 **I’m currently learning:**  <br>GraphQL and NextJS.<br><br>💬 **Ask me about**  <br>JavaScript, TypeScript, React, Angular, Node.js, Express, MongoDB, Elastic Search, Messaging Systems, AWS, System Designs, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love playing video games.
+<!-- **I’m currently working on:**  <br>Improving my knowlage on python, java, linux and ethical hacking .<br><br> -->
+**I’m looking to make:**  <br>Cybersecurity/Pentesting/Password cracker projects and more<br><br> **I’m currently learning:**  <br>Python, Bash/Shell Scripting, SQL, JavaScript,  .<br><br> **Fun fact:**  <br>I love playing video games :].
 
 
 ## 🌐 Socials:
