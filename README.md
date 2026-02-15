@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Valen;I'm+Studying+to+become+a+Cybersecurity+Engineer)](https://git.io/typing-svg)
 # About Me:
 
-Hi welcome to my github profile, you'll only find me as Valen. I am a studying Software Engineer and im at my third semester.
+Hi welcome to my github profile, Online you'll only find me as Valen. I am a studying Software Engineer and im at my third semester.
 And im currently working towards to become cybersecurity professional pentester. My learning journey has been fueled by constant curiosity and platforms like TryHackMe and HackTheBox.
 My objective is to find vulnearbilities on Webpages and Aplicacions.
 
